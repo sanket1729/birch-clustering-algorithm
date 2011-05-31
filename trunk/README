@@ -1,0 +1,7 @@
+My BIRCH implementation is based on the paper:
+T Zhang, R Ramakrishnan, M Livny. "BIRCH: A new data clustering algorithm and its applications". Journal of Data Mining and Knowledge Discovery, Vol. 1, Num. 2, 1997.
+
+Although there provides test executable files, birch-clustering-algorithm is basically in a library form.
+It is strongly recommended applying this library to another program
+
+- Taesik Yoon (otterrrr@gmail.com)
